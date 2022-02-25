@@ -1,4 +1,4 @@
-# Smart Pension take home test
+# Take home test
 
 This is an approach to create a parser for a file that is expected to have a N amount of lines, and each line would be composed as a page visited and user id.
 The assumption is that the user id is not an IP number.
